@@ -58,3 +58,6 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+- 💬 Ask me about **Blockchain, Solana, Ethereum, DApps**,
+- 📫 How to reach me: <a href="mailto:vincentygarcia@gmail.com">vincentygarcia@gmail.com</a>
