@@ -37,7 +37,7 @@
 ### <div align="center">I'm Vincent, a full-time full-stack freelance developer 👨‍💻 working remotely since 2011 🚀</div>  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently specializing Solidity, Web 3 and Rust.  
   
 
 - ❓ Ask me about anything related to Blockchain/Cryptocurrency and related technologies  
