@@ -34,7 +34,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
 </p>
 
-### <div align="center">I'm Vincent, a full-time full-stack freelance developer 👨‍💻 working remotely since 2011 🚀</div>  
+### <div align="center">I'm John, a full-time full-stack freelance developer 👨‍💻 working remotely since 2011 🚀</div>  
   
 
 - 🌱 I’m currently specializing Solidity, Web 3 and Rust.  
