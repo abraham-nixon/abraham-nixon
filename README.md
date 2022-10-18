@@ -34,7 +34,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
 </p>
 
-### <div align="center">I'm John, a full-time full-stack freelance developer 👨‍💻 working remotely since 2011 🚀</div>  
+### <div align="center">I'm Abraham, a full-time full-stack freelance developer 👨‍💻 working remotely since 2011 🚀</div>  
   
 
 - 🌱 I’m currently specializing Solidity, Web 3 and Rust.  
@@ -107,4 +107,4 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jamen-marz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abraham-nixon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
